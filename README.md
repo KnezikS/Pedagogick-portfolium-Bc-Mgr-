@@ -4,7 +4,7 @@ Bakalářské studium <br>
 Obor TV-IT <br>
 FTK, UPOL
 
-Údaje:
-Tel:
-E-mail:
-Adresa:
+Údaje: <br>
+Tel: <br>
+E-mail: <br>
+Adresa: <br>
